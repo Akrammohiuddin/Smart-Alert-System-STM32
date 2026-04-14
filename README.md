@@ -29,7 +29,7 @@ Based on conditions:
 
 👉 Click below to run the project:
 
-🔗https://wokwi.com/projects/461252043146567681
+🔗https://wokwi.com/projects/461262326223419393
 
 ## 🛠 How It Works
 
