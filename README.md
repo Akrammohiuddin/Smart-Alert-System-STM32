@@ -49,7 +49,3 @@ Due to STM32 memory limitations, lightweight libraries are used.
 
 ---
 
-## 👨‍💻 Developed by
-Akram Mohiuddin  
-Research and Development Associate  
-Kite Robotics
