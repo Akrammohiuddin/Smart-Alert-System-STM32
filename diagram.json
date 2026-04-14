@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "author": "Akram Mohiuddin",
+  "author": "Siva",
   "editor": "wokwi",
   "parts": [
     { "type": "wokwi-breadboard-half", "id": "bb1", "top": 73.8, "left": 146.8, "attrs": {} },
